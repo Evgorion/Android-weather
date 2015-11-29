@@ -14,9 +14,18 @@ import android.os.Bundle;
  */
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     *  Функция которая запускается в начале выполнения программы.
+     *
+     *  Эта функция всегда запускается первой при запуске апликации.
+     *
+     *
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    
 }
