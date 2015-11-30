@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicViews</string>
+    <string name="fact_view">Hello World!</string>
+    <string name="btn_start">New Button</string>
+</resources>
