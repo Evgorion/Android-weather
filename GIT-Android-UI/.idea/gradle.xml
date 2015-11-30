@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/git-android-ui-4.1" />
             <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0041basicviews-2" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
           </set>
         </option>
       </GradleProjectSettings>
